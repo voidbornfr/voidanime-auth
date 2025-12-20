@@ -1,16 +1,3 @@
 {
-  "comments": [
-    {
-      "id": "7ab2dfdf-7a91-40b8-997f-d34c80ef26cd",
-      "profile_id": "b8702d6c-209a-4776-9ae6-03b89f44d4ea",
-      "username": "",
-      "avatar_url": "",
-      "media_id": 181447,
-      "media_type": "anime",
-      "episode": 1,
-      "content": "testing",
-      "created_at": "2025-12-20T11:50:39.6426467+05:30",
-      "updated_at": "2025-12-20T11:50:39.6426467+05:30"
-    }
-  ]
+  "comments": []
 }
