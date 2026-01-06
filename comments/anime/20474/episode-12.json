@@ -9,8 +9,9 @@
       "media_type": "anime",
       "episode": 12,
       "content": "W app W anime",
+      "deleted": true,
       "created_at": "2026-01-06T22:38:24.834507+05:30",
-      "updated_at": "2026-01-06T22:38:24.834507+05:30"
+      "updated_at": "2026-01-06T22:43:29.1117322+05:30"
     }
   ]
 }
